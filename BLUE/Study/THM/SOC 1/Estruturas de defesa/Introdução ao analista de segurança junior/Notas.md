@@ -30,3 +30,4 @@ Uma visão geral do modelo de três camadas do Security Operations Center (SOC):
 
 ![imagem THM](Print/1.png)
 
+# Centro de Operações de segurança(SOC)
